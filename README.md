@@ -1,4 +1,5 @@
-# Kindroid.ai Japanese Auto Translator / Kindroid.ai 日语自动翻译器
+# Kindroid.ai Japanese Auto Translator
+# Kindroid.ai 日语自动翻译器
 
 [English](#english) | [中文](#中文)
 
